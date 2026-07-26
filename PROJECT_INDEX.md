@@ -1,6 +1,6 @@
 # 项目索引
 
-按实际用途整理的公开项目导航。分类只按主题划分，不区分仓库是否带有 GitHub 的 Fork 技术标记。
+按实际用途整理的自有项目导航。
 
 ## 🏗️ 空间设计、物业与现场管理
 
@@ -77,7 +77,3 @@
 - [Claude 服务器启动脚本](https://github.com/bullshitAI52/english-vocab-app) — 一键启动并连接 Claude 服务。
 - [去重软件](https://github.com/bullshitAI52/-) — 去重工具。
 - [ideo-matrix-pro](https://github.com/bullshitAI52/ideo-matrix-pro) — 实验性项目。
-
-## 🧪 关联项目与实验仓库
-
-还有 75 个带有 GitHub Fork 关联标记的项目，覆盖 AI Agent、自动化、OCR、媒体下载、工作流、网络工具等方向。它们同样保留在账号中，可通过 [关联项目与实验仓库](https://github.com/bullshitAI52?tab=repositories&type=forks) 浏览。
