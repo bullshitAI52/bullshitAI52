@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/bullshitAI52?tab=repositories&type=source">🟢 我的原创作品</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/bullshitAI52?tab=repositories&type=forks">🟣 Fork 学习与参考库</a>
+  <a href="https://github.com/bullshitAI52?tab=repositories&type=forks">🟣 关联项目与实验仓库</a>
 </p>
 
 ---
