@@ -15,6 +15,8 @@
   <a href="https://github.com/bullshitAI52?tab=repositories&type=source">🟢 我的原创作品</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/bullshitAI52?tab=repositories&type=forks">🟣 关联项目与实验仓库</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/bullshitAI52/bullshitAI52/blob/main/PROJECT_INDEX.md">📚 完整项目索引</a>
 </p>
 
 ---
