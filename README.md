@@ -5,6 +5,8 @@
 **AI 工具 · 自动化工作流 · 教育应用 · 影音处理**
 
 <a href="https://github.com/bullshitAI52?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"></a>
+<a href="https://github.com/bullshitAI52?tab=repositories&type=source"><img src="https://img.shields.io/badge/My%20Original%20Projects-Sources-16a34a?style=for-the-badge&logo=github" alt="My original projects"></a>
+<a href="https://github.com/bullshitAI52?tab=repositories&type=forks"><img src="https://img.shields.io/badge/Learning%20%26%20Reference-Forks-8250df?style=for-the-badge&logo=github" alt="Forked projects"></a>
 <a href="https://github.com/bullshitAI52?tab=stars"><img src="https://img.shields.io/badge/Discover-Starred%20Projects-6f42c1?style=for-the-badge&logo=github" alt="Starred projects"></a>
 
 </div>
