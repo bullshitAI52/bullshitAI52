@@ -29,9 +29,6 @@
 ## 📚 教育、数学与语言学习
 
 - [AI 阅卷](https://github.com/bullshitAI52/ai-grader) — 双 AI 引擎试卷批改系统。
-- [SmartGrader v2](https://github.com/bullshitAI52/smartgrader-v2) — OCR、自动判分与错题分析。
-- [SmartGrader](https://github.com/bullshitAI52/smartgrader) — AI 阅卷与作业辅导。
-- [OCR 阅卷助手](https://github.com/bullshitAI52/SmartGrader-OCR-Tool) — 本地批量识别试卷与输出批改结果。
 - [初中数学教材](https://github.com/bullshitAI52/chuzhong-math) — 七至九年级数学教材资源。
 - [数学学习资料](https://github.com/bullshitAI52/shuxue2) — 数学资料与工具预留项目。
 - [漫画数学](https://github.com/bullshitAI52/mathmanhua123) — 数学学习内容。
@@ -57,7 +54,6 @@
 - [图片信息工具](https://github.com/bullshitAI52/image-info-tool-rs) — 查看图片信息。
 - [Excel 高级比对](https://github.com/bullshitAI52/excel-comparison-tool) — 对比 Excel 文件内容。
 - [交互式电子书制作](https://github.com/bullshitAI52/interactive-ebook-creator) — 创建支持音视频点读的电子书。
-- [交互式电子书部署版](https://github.com/bullshitAI52/interactive-ebook-creator-vercel) — 电子书在线部署版本。
 - [AI 内容编辑器](https://github.com/bullshitAI52/ai-content-editor) — 日常创作场景的 AI 文本编辑。
 
 ## 📊 数据、资讯与自动化
