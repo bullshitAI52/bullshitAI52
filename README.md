@@ -9,6 +9,8 @@
 <a href="https://github.com/bullshitAI52?tab=repositories&type=forks"><img src="https://img.shields.io/badge/Learning%20%26%20Reference-Forks-8250df?style=for-the-badge&logo=github" alt="Forked projects"></a>
 <a href="https://github.com/bullshitAI52?tab=stars"><img src="https://img.shields.io/badge/Discover-Starred%20Projects-6f42c1?style=for-the-badge&logo=github" alt="Starred projects"></a>
 
+[**🟢 我的原创作品（Sources）**](https://github.com/bullshitAI52?tab=repositories&type=source)　·　[**🟣 Fork 学习与参考库（Forks）**](https://github.com/bullshitAI52?tab=repositories&type=forks)
+
 </div>
 
 > 把日常需求变成轻量、实用、可持续迭代的小工具。
