@@ -12,9 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bullshitAI52?tab=repositories&type=source">🟢 我的原创作品</a>
+  <a href="https://github.com/bullshitAI52?tab=repositories&type=source">🟢 非 Fork 项目</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/bullshitAI52/bullshitAI52/blob/main/PROJECT_INDEX.md">📚 完整项目索引</a>
+  <a href="https://github.com/bullshitAI52/bullshitAI52/blob/main/PROJECT_INDEX.md">📚 分类项目索引</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/bullshitAI52?tab=repositories&type=fork">🔀 Fork 仓库</a>
   &nbsp;·&nbsp;
   <a href="https://www.youtube.com/watch?v=MKt3sp2R8dk&list=RDMKt3sp2R8dk&start_radio=1&t=218s">🎧 工作时听的音乐</a>
 </p>
@@ -42,18 +44,27 @@
 
 ## 🗂️ 项目方向
 
-<table>
-  <tr>
-    <td width="33%" align="center"><b>📚 教育与学习</b><br>AI 阅卷 · 英语学习 · 假期计划</td>
-    <td width="33%" align="center"><b>🎥 影音与内容</b><br>视频配音 · 字幕剪辑 · 音频处理</td>
-    <td width="33%" align="center"><b>🖼️ 图像与文档</b><br>OCR · PDF 工具 · 图片处理</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🏢 办公与物业</b><br>排班 · 停车 · 揽件计划</td>
-    <td align="center"><b>📊 数据与自动化</b><br>数据清洗 · 热点推送 · 信息采集</td>
-    <td align="center"><b>🏗️ 空间设计探索</b><br>草图布局 · 零售设计 · CAD 自动化</td>
-  </tr>
-</table>
+按用途查看项目，点击分类进入完整索引。
+
+| 方向 | 内容 |
+| --- | --- |
+| [📚 教育学习与 AI 阅卷](PROJECT_INDEX.md#education) | 阅卷 · 英语 · 数学 · 电子书 |
+| [🎥 音视频、字幕与媒体处理](PROJECT_INDEX.md#media) | 配音 · 转写 · 字幕 · 剪辑 |
+| [🖼️ 图片、文档与办公工具](PROJECT_INDEX.md#documents) | OCR · PDF · 图片排版 · Excel |
+| [🏢 物业运营、排班与业务管理](PROJECT_INDEX.md#operations) | 排班 · 停车 · 揽件 · 车辆报备 |
+| [🏗️ 工程设计与自动化](PROJECT_INDEX.md#engineering) | 草图布局 · 零售设计 · CAD |
+| [🧰 AI 创作、开发与系统工具](PROJECT_INDEX.md#ai-tools) | 内容编辑 · 图片生成 · 开发工具 |
+| [📊 数据采集与信息分析](PROJECT_INDEX.md#data) | 资讯推送 · 商品采集 · 数据清洗 |
+| [👤 个人主页与简历](PROJECT_INDEX.md#profile) | 主页导航 · 简历展示 |
+| [🗃️ 其他与待完善说明](PROJECT_INDEX.md#other) | 实验项目 · 待补充介绍 |
+
+## 🔀 开源实践
+
+[闲鱼监控修复版](https://github.com/bullshitAI52/ai-goofish-monitor/tree/fix/local-runtime-reliability) · [修改说明](https://github.com/bullshitAI52/ai-goofish-monitor/blob/fix/local-runtime-reliability/MODIFICATIONS.md)
+
+基于 Usagi-org/ai-goofish-monitor，修复请求头复用、本地浏览器选择、后台收尾和分析异常漏报问题。120 项离线测试通过；真实抓取与 AI 分析尚待配置凭据后验证。
+
+[浏览其他 Fork 项目](PROJECT_INDEX.md#forks)。非 Fork 与 Fork 分开展示，来源和使用条件以项目说明及许可证为准。
 
 ## 📈 GitHub 概览
 
