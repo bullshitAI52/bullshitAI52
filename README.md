@@ -58,6 +58,11 @@
 | [👤 个人主页与简历](PROJECT_INDEX.md#profile) | 主页导航 · 简历展示 |
 | [🗃️ 其他与待完善说明](PROJECT_INDEX.md#other) | 实验项目 · 待补充介绍 |
 
+## 📦 最近归档
+
+- [图纸翻译源码](https://github.com/bullshitAI52/drawing-translation)：DXF 文本提取与 Excel 译文映射标注，附原始源码、压缩包及已知问题；尚未验证运行。
+- [专业软件与 CAD 残留清理工具](https://github.com/bullshitAI52/software-residue-cleanup-tools)：两个 Windows EXE 的原始文件归档，附下载链接和校验值；未运行验证。
+
 ## 🔀 开源实践
 
 [闲鱼监控修复版](https://github.com/bullshitAI52/ai-goofish-monitor/tree/fix/local-runtime-reliability) · [修改说明](https://github.com/bullshitAI52/ai-goofish-monitor/blob/fix/local-runtime-reliability/MODIFICATIONS.md)

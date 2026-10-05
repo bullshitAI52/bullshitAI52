@@ -12,8 +12,8 @@
 | [🎥 音视频、字幕与媒体处理](#media) | 8 |
 | [🖼️ 图片、文档与办公工具](#documents) | 8 |
 | [🏢 物业运营、排班与业务管理](#operations) | 7 |
-| [🏗️ 工程设计与自动化](#engineering) | 4 |
-| [🧰 AI 创作、开发与系统工具](#ai-tools) | 3 |
+| [🏗️ 工程设计与自动化](#engineering) | 5 |
+| [🧰 AI 创作、开发与系统工具](#ai-tools) | 4 |
 | [📊 数据采集与信息分析](#data) | 6 |
 | [👤 个人主页与简历](#profile) | 3 |
 | [🗃️ 其他与待完善说明](#other) | 3 |
@@ -95,6 +95,7 @@
 
 | 项目 | 用途 |
 | --- | --- |
+| [drawing-translation](https://github.com/bullshitAI52/drawing-translation) | DXF 图纸文本提取与 Excel 译文映射标注的原始源码归档，附依赖和已知问题；尚未验证运行。 |
 | [cad-automator-rs](https://github.com/bullshitAI52/cad-automator-rs) | CAD 自动化工具实验项目。 |
 | [power-balancer](https://github.com/bullshitAI52/power-balancer) | 高性能三相电力负荷平衡优化工具 |
 | [retail-auto-plan-design](https://github.com/bullshitAI52/retail-auto-plan-design) | 零售空间自动出方案原型：包含设计文档、规则库与自动化脚本。 |
@@ -106,6 +107,7 @@
 
 | 项目 | 用途 |
 | --- | --- |
+| [software-residue-cleanup-tools](https://github.com/bullshitAI52/software-residue-cleanup-tools) | 专业软件与 CAD 残留清理工具的 Windows EXE 归档，附下载链接和 SHA-256 校验值；未运行验证。 |
 | [ai-content-editor](https://github.com/bullshitAI52/ai-content-editor) | 面向日常创作场景的 AI 文本内容编辑工具。 |
 | [ccs](https://github.com/bullshitAI52/ccs) | 一个用于管理多个 Claude API 配置的命令行工具。可以轻松在不同环境或账户的 API 密钥和基础 URL 之间切换。 |
 | [openai-canvas-portable](https://github.com/bullshitAI52/openai-canvas-portable) | 多图提示词与图片生成工作流，使用 OpenAI API；提供 Windows 和 macOS 独立便携版，无需 ComfyUI 或本地模型。 |
