@@ -100,7 +100,9 @@
 
 [浏览其他 Fork 项目](PROJECT_INDEX.md#forks)。非 Fork 与 Fork 分开展示，来源和使用条件以项目说明及许可证为准。
 
-## 📈 GitHub 概览
+## 📈 持续构建与更新
+
+持续把工作中的真实需求整理成工具，并不断补充功能、文档和使用示例。这里的项目会持续迭代，也会保留一些正在验证中的实验项目。
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bullshitAI52&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=4B5563&icon_color=7C3AED" alt="GitHub 数据" />
