@@ -1,6 +1,14 @@
 <h1 align="center">你好，我是 zwm5646 👋</h1>
 
 <p align="center">
+  <img src="./assets/profile-banner.png" alt="CAD engineering profile banner" width="100%" />
+</p>
+
+<h2 align="center">📈 持续构建与更新</h2>
+
+<p align="center">把工作中的真实需求整理成工具，持续补充功能、文档和使用示例。</p>
+
+<p align="center">
   <b>空间设计从业者</b> · 业余独立开发者 · 用 AI 与自动化解决真实问题
 </p>
 
@@ -100,7 +108,7 @@
 
 [浏览其他 Fork 项目](PROJECT_INDEX.md#forks)。非 Fork 与 Fork 分开展示，来源和使用条件以项目说明及许可证为准。
 
-## 📈 持续构建与更新
+## 📊 GitHub 概览
 
 持续把工作中的真实需求整理成工具，并不断补充功能、文档和使用示例。这里的项目会持续迭代，也会保留一些正在验证中的实验项目。
 
