@@ -41,6 +41,7 @@
 | 🏗️ [草图转布局图](https://github.com/bullshitAI52/sketch-to-layout) | 将平面草图转换为布局图的实验原型 |
 | 🛍️ [零售自动出方案](https://github.com/bullshitAI52/retail-auto-plan-design) | 零售空间自动设计与方案生成原型 |
 | 📦 [揽件计划助手](https://github.com/bullshitAI52/collection-system) | 按路线和时间规划揽件任务 |
+| 🧱 [CAD 块数量统计与批处理](https://github.com/bullshitAI52/cad-batch-tool) | 不启动 AutoCAD 统计块数量、分类、检查重叠，并支持 DWG 批处理 |
 
 ## 🗂️ 项目方向
 
