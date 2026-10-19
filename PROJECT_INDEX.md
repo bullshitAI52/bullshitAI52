@@ -12,7 +12,7 @@
 | [🎥 音视频、字幕与媒体处理](#media) | 8 |
 | [🖼️ 图片、文档与办公工具](#documents) | 8 |
 | [🏢 物业运营、排班与业务管理](#operations) | 7 |
-| [🏗️ 工程设计与自动化](#engineering) | 5 |
+| [🏗️ 工程设计与自动化](#engineering) | 13 |
 | [🧰 AI 创作、开发与系统工具](#ai-tools) | 4 |
 | [📊 数据采集与信息分析](#data) | 6 |
 | [👤 个人主页与简历](#profile) | 3 |
@@ -96,10 +96,17 @@
 | 项目 | 用途 |
 | --- | --- |
 | [drawing-translation](https://github.com/bullshitAI52/drawing-translation) | DXF 图纸文本提取与 Excel 译文映射标注的原始源码归档，附依赖和已知问题；尚未验证运行。 |
+| [cad-text-tools](https://github.com/bullshitAI52/cad-text-tools) | AutoCAD 文字工具集：MT2CSV、FONTFIX 和 EXPLODEATT，支持文字提取、字体修复与动态块属性处理。 |
+| [explodeatt-autocad](https://github.com/bullshitAI52/explodeatt-autocad) | 独立的 AutoCAD 动态块属性文字释放工具，可与 MT2CSV 配合导出 CSV。 |
+| [cad-batch-tool](https://github.com/bullshitAI52/cad-batch-tool) | AutoCAD DWG 批处理、图层整理、有限轮次炸开和版本转换工具。 |
+| [autolisp-wblockm](https://github.com/bullshitAI52/autolisp-wblockm) | AutoCAD AutoLISP 图块批量导出工具，支持中文路径和错误日志。 |
+| [cad-text-extractor](https://github.com/bullshitAI52/cad-text-extractor) | 通过 Python 和 AutoCAD COM 批量提取 DWG 文字并导出 Excel。 |
+| [DwgSearch](https://github.com/bullshitAI52/DwgSearch) | 不打开 AutoCAD，批量搜索和替换 DWG 文件中的文字。 |
 | [cad-automator-rs](https://github.com/bullshitAI52/cad-automator-rs) | CAD 自动化工具实验项目。 |
 | [power-balancer](https://github.com/bullshitAI52/power-balancer) | 高性能三相电力负荷平衡优化工具 |
 | [retail-auto-plan-design](https://github.com/bullshitAI52/retail-auto-plan-design) | 零售空间自动出方案原型：包含设计文档、规则库与自动化脚本。 |
 | [sketch-to-layout](https://github.com/bullshitAI52/sketch-to-layout) | 草图转布局图生成原型：将平面草图转换为布局图。 |
+| [engineering-pdf-tool](https://github.com/bullshitAI52/engineering-pdf-tool) | 本地工程 PDF 批量后处理工具，支持蓝图转换、红章保留和注释扁平化。 |
 
 <a id="ai-tools"></a>
 

@@ -60,6 +60,17 @@
 
 ## 📦 最近归档
 
+### 最近整理的工程与 CAD 工具
+
+- [cad-text-tools](https://github.com/bullshitAI52/cad-text-tools)：MT2CSV、FONTFIX、EXPLODEATT 三个 AutoCAD 文字处理工具。
+- [explodeatt-autocad](https://github.com/bullshitAI52/explodeatt-autocad)：独立的动态块属性文字处理工具，可配合 MT2CSV 导出。
+- [cad-batch-tool](https://github.com/bullshitAI52/cad-batch-tool)：DWG 批处理和版本转换工具。
+- [autolisp-wblockm](https://github.com/bullshitAI52/autolisp-wblockm)：AutoLISP 图块批量导出工具。
+- [cad-text-extractor](https://github.com/bullshitAI52/cad-text-extractor)：AutoCAD 文字提取与 Excel 导出工具。
+- [DwgSearch](https://github.com/bullshitAI52/DwgSearch)：DWG 文件文字搜索和替换工具。
+- [drawing-translation](https://github.com/bullshitAI52/drawing-translation)：DXF 图纸文字提取与翻译映射工具。
+- [engineering-pdf-tool](https://github.com/bullshitAI52/engineering-pdf-tool)：工程 PDF 批量处理工具。
+
 - [图纸翻译源码](https://github.com/bullshitAI52/drawing-translation)：DXF 文本提取与 Excel 译文映射标注，附原始源码、压缩包及已知问题；尚未验证运行。
 - [专业软件与 CAD 残留清理工具](https://github.com/bullshitAI52/software-residue-cleanup-tools)：两个 Windows EXE 的原始文件归档，附下载链接和校验值；未运行验证。
 
