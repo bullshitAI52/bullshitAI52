@@ -71,6 +71,23 @@
 - [drawing-translation](https://github.com/bullshitAI52/drawing-translation)：DXF 图纸文字提取与翻译映射工具。
 - [engineering-pdf-tool](https://github.com/bullshitAI52/engineering-pdf-tool)：工程 PDF 批量处理工具。
 
+### 📅 最近更新动态
+
+最近一段时间持续整理和完善工程设计、CAD 自动化及文档处理项目：
+
+| 项目 | 最近更新 | 更新内容 |
+| --- | --- | --- |
+| [cad-text-tools](https://github.com/bullshitAI52/cad-text-tools) | 2026-10-19 | 新增 MT2CSV、FONTFIX、EXPLODEATT 及中英文使用说明 |
+| [explodeatt-autocad](https://github.com/bullshitAI52/explodeatt-autocad) | 2026-10-19 | 独立整理动态块属性处理工具，并补充中英文说明 |
+| [cad-batch-tool](https://github.com/bullshitAI52/cad-batch-tool) | 2026-10-18 | DWG 批处理、图层整理和版本转换工具 |
+| [DwgSearch](https://github.com/bullshitAI52/DwgSearch) | 2026-10-06 | DWG 文字批量搜索与替换 |
+| [cad-text-extractor](https://github.com/bullshitAI52/cad-text-extractor) | 2026-10-06 | AutoCAD 文字提取和 Excel 导出 |
+| [drawing-translation](https://github.com/bullshitAI52/drawing-translation) | 2026-10-06 | DXF 图纸文字提取与翻译映射 |
+| [engineering-pdf-tool](https://github.com/bullshitAI52/engineering-pdf-tool) | 2026-10-06 | 工程 PDF 批量后处理 |
+| [autolisp-wblockm](https://github.com/bullshitAI52/autolisp-wblockm) | 2026-10-08 | AutoLISP 图块批量导出 |
+
+> 这份列表按最近整理时间更新，具体代码提交记录请以各项目仓库为准。
+
 - [图纸翻译源码](https://github.com/bullshitAI52/drawing-translation)：DXF 文本提取与 Excel 译文映射标注，附原始源码、压缩包及已知问题；尚未验证运行。
 - [专业软件与 CAD 残留清理工具](https://github.com/bullshitAI52/software-residue-cleanup-tools)：两个 Windows EXE 的原始文件归档，附下载链接和校验值；未运行验证。
 
