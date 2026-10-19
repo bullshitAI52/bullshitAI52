@@ -20,6 +20,8 @@
 </p>
 
 <p align="center">
+  <a href="README_EN.md">🇬🇧 English</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/bullshitAI52?tab=repositories&type=source">🟢 非 Fork 项目</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/bullshitAI52/bullshitAI52/blob/main/PROJECT_INDEX.md">📚 分类项目索引</a>
